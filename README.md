@@ -10,5 +10,5 @@ For start application you should go to app folder and run **Docker** or **Yarn**
 
 
 Apps:
-- [Frontend]()
-- [Backend]()
+- [Frontend](https://github.com/Jourloy/sBoardTask/tree/main/apps/web)
+- [Backend](https://github.com/Jourloy/sBoardTask/tree/main/apps/api)
