@@ -1,0 +1,16 @@
+version: '3.7'
+
+services:
+    app:
+        container_name: sboard_task_web
+        build:
+            context: .
+        volumes:
+            - .:/app
+            - /app/node_modules
+        command: yarn dev
+        ports:
+            - "10001:10001"
+        restart: always
+volumes:
+    app:
