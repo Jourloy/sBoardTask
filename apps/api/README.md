@@ -6,6 +6,10 @@
 
 ## Getting Started
 
+### Prepare
+
+Before launch app you must create `.env` file and add needed variables. Look into `.env.sample` for more info
+
 ### Installation
 
 ```bash
